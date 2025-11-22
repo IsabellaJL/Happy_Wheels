@@ -88,7 +88,8 @@ PruebaC-sharp_IsabellaJimenez/
 │   ├── Inspector.cs              # Inspector entity
 │   ├── Appointment.cs            # Appointment entity
 │   ├── EmailLog.cs               # Email log entity
-│   └── DataStorage.cs            # In-memory data storage with ID generation
+├── Data/                         # In-memory data storage with ID generation
+│   ├── AppDbContext.cs
 │
 ├── Services/
 │   ├── ClientService.cs          # Client business logic
