@@ -267,5 +267,5 @@ Happy Wheels Technical Review Center
 # Coder info
 
 - Isabella Jiménez Lázaro
-- Clan caíman
+- Clan caimán
 - isabellajimenezlazaro@gmail.com
