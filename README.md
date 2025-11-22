@@ -124,9 +124,8 @@ Program.cs in the root directory
 ## Main Menu
 When you run the application, you'll see the main menu:
 
-╔════════════════════════════════════════════╗
+
 ║  HAPPY WHEELS - TECHNICAL REVIEW SYSTEM  ║
-╚════════════════════════════════════════════╝
 
 1.  Client Management
 2.  Vehicle Management
