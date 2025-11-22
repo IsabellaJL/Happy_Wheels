@@ -220,22 +220,22 @@ The system comes preloaded with sample data for testing:
 
 ## Clients
 
-Bloom Peters (DOC123456)
-Valtor Garcia (DOC789012)
-Chimera Johnson (DOC345678)
+- Bloom Peters (DOC123456)
+- Valtor Garcia (DOC789012)
+- Chimera Johnson (DOC345678)
 
 Inspectors
 
-Riven Rodriguez - Light Inspection
-Musa Martinez - Motorcycle Inspection
-Helio Hernandez - Heavy Inspection
+- Riven Rodriguez - Light Inspection
+- Musa Martinez - Motorcycle Inspection
+- Helio Hernandez - Heavy Inspection
 
 Vehicles
 
-ABC123 - Toyota Corolla 2020 (Automobile) - Owner: Bloom Peters
-XYZ789 - Honda CBR500 2021 (Motorcycle) - Owner: Valtor Garcia
-DEF456 - Ford F-150 2019 (Automobile) - Owner: Chimera Johnson
-GHI789 - Yamaha MT-07 2022 (Motorcycle) - Owner: Bloom Peters
+- ABC123 - Toyota Corolla 2020 (Automobile) - Owner: Bloom Peters
+- XYZ789 - Honda CBR500 2021 (Motorcycle) - Owner: Valtor Garcia
+- DEF456 - Ford F-150 2019 (Automobile) - Owner: Chimera Johnson
+- GHI789 - Yamaha MT-07 2022 (Motorcycle) - Owner: Bloom Peters
 
 
 # Email System
