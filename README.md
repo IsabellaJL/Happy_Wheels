@@ -77,6 +77,8 @@ Vehicles cannot have multiple appointments at the same time
 
 # Project Structure
 
+
+```plaintext
 PruebaC-sharp_IsabellaJimenez/
 │
 ├── Models/
@@ -96,7 +98,7 @@ PruebaC-sharp_IsabellaJimenez/
 │   └── EmailService.cs           # Email sending and logging
 │
 └── Program.cs                     # Main entry point and user interface menus
-
+```
 
 # Prerequisites
 
@@ -150,13 +152,14 @@ When you run the application, you'll see the main menu:
 
 ## Business Rules
 
+```plaintext
 Vehicle and Inspector Compatibility
 
 Vehicle Type        |  Compatible Inspector Type
 Automobile          |  Light
 Motorcycle          |  Motorcycle
 Heavy Vehicle       |  Heavy
-
+```
 
 ## Validation Rules
 
