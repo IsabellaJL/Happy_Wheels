@@ -190,22 +190,22 @@ All required fields must be provided
 
 ## Technologies Used
 
-Language: C# 
-Framework: .NET 8.0
-Data Storage: In-memory Lists and LINQ
-Architecture: Service-oriented with separation of concerns
+- Language: C# 
+- Framework: .NET 8.0
+- Data Storage: In-memory Lists and LINQ
+- Architecture: Service-oriented with separation of concerns
 
 ## Design Patterns Applied
 
-Service Layer Pattern: Business logic separated into service classes
-Repository Pattern: Data storage abstraction through DataStorage class
-Single Responsibility Principle: Each service handles one domain entity
+- Service Layer Pattern: Business logic separated into service classes
+- Repository Pattern: Data storage abstraction through DataStorage class
+- Single Responsibility Principle: Each service handles one domain entity
 
 ## Data Structures
 
-List<T> for storing entities
-LINQ for querying and filtering data
-Auto-incrementing ID counters for entity identification
+- List<T> for storing entities
+- LINQ for querying and filtering data
+- Auto-incrementing ID counters for entity identification
 
 ## OOP Principles Applied
 
@@ -220,22 +220,22 @@ The system comes preloaded with sample data for testing:
 
 ## Clients
 
-- Bloom Peters (DOC123456)
-- Valtor Garcia (DOC789012)
-- Chimera Johnson (DOC345678)
+1. Bloom Peters (DOC123456)
+2. Valtor Garcia (DOC789012)
+3. Chimera Johnson (DOC345678)
 
 Inspectors
 
-- Riven Rodriguez - Light Inspection
-- Musa Martinez - Motorcycle Inspection
-- Helio Hernandez - Heavy Inspection
+1. Riven Rodriguez - Light Inspection
+2. Musa Martinez - Motorcycle Inspection
+3. Helio Hernandez - Heavy Inspection
 
 Vehicles
 
-- ABC123 - Toyota Corolla 2020 (Automobile) - Owner: Bloom Peters
-- XYZ789 - Honda CBR500 2021 (Motorcycle) - Owner: Valtor Garcia
-- DEF456 - Ford F-150 2019 (Automobile) - Owner: Chimera Johnson
-- GHI789 - Yamaha MT-07 2022 (Motorcycle) - Owner: Bloom Peters
+1. ABC123 - Toyota Corolla 2020 (Automobile) - Owner: Bloom Peters
+2. XYZ789 - Honda CBR500 2021 (Motorcycle) - Owner: Valtor Garcia
+3. DEF456 - Ford F-150 2019 (Automobile) - Owner: Chimera Johnson
+4. GHI789 - Yamaha MT-07 2022 (Motorcycle) - Owner: Bloom Peters
 
 
 # Email System
